@@ -12,9 +12,9 @@
 /* 
  * Compilation and Execution:
  * 
- * Compilation: g++ -o exercise exercise.cpp -lglut -lGL -lGLU -lm
+ * Compilation: g++ -o clown animatedClown.cpp -lglut -lGL -lGLU -lm
  *  
- * Execution: ./exercise
+ * Execution: ./clown
  */
 using namespace std;
 /* Adicionar um nariz ao palhaço, de formato circular que age como as orelhas */
